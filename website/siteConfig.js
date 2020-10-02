@@ -15,7 +15,7 @@ const siteConfig = {
     title: 'Sarah Adams', // Title for your website.
     tagline: 'Using data science as a tool to midigate societal gaps',
     profilePhoto: 'img/profile.jpg',
-    url: 'https://SarahEAdams.github.io', // Your website URL
+    url: 'https://saraheadams.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
